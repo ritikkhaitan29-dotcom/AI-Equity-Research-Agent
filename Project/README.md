@@ -1,5 +1,14 @@
-# Project
+# Project Documentation
 
-This folder documents the business problem, project objectives, design decisions and lessons learned while building the AI Equity Research Agent.
+This folder contains documentation explaining the motivation, design decisions and development journey behind the AI Equity Research Agent.
 
-The focus is on demonstrating how AI can be applied to solve practical finance problems using structured prompt engineering and institutional research workflows.
+## Contents
+
+- Project Overview
+- Problem Statement
+- Design Philosophy
+- Research Methodology
+- Prompt Engineering Approach
+- Challenges & Iterations
+- Skills Demonstrated
+- Future Enhancements
