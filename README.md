@@ -1,3 +1,5 @@
+![AI Equity Research Agent](screenshots/banner.png)
+
 # AI Equity Research Agent
 
 > A practical AI workflow that transforms scattered public financial information into a structured equity research report from a single company name.
